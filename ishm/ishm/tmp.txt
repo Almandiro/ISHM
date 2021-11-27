@@ -1,0 +1,8 @@
+./database.php:		$result = mysql_db_query("HADS_Users", $query);
+./database.php:        	$result = mysql_db_query("HADS_Users", $query);
+./includes/functions.inc:		$results = mysql_db_query("hads","SELECT name FROM components");
+./includes/functions.inc:        $results = mysql_db_query("hads", "SELECT filename FROM data_files");
+./includes/functions.inc:               $result = mysql_db_query("HADS_Users", $query);	          
+./includes/functions.inc:$result=mysql_db_query("HADS_Users", "select username, seclevel from userinfo");
+./includes/query.php:	$result = mysql_db_query ("hads", $query);
+./query.php:	$result = mysql_db_query ("hads", $query);
